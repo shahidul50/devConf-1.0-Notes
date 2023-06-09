@@ -1,6 +1,6 @@
 # devConf 1.0 Notes
 
-Web View - [devConf 1.0 Notes](https://shahidctg.notion.site/shahidctg/devConf-1-0-Notes-004f78fc05054cecb5035d59e486b680)
+Web View এর মাধ্যমে ভালভাবে দেখতে হলে এই Link এ ঘুরে আসুন - [devConf 1.0 Notes](https://shahidctg.notion.site/shahidctg/devConf-1-0-Notes-004f78fc05054cecb5035d59e486b680)
 ## Organized by :  [Learn with Sumit](https://learnwithsumit.com/) (Sumit Bai)
 
 [https://youtu.be/e1bAqdy3pS4?t=4](https://youtu.be/e1bAqdy3pS4?t=4)
