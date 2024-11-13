@@ -78,7 +78,7 @@ Web View এর মাধ্যমে ভালভাবে দেখতে হ�
     - Current State:  identify and document existing problems, Identify relevant solutions.
     - Future State: Reinvent journeys for the better, Conceive new experiences
     
-    💡 _Note_: For any tool or technology being developed- Inspiration Research should be MANDATORY!                                                                                                                           Will you use a research-first Or hypothesis-first approach?
+    > 💡 _Note_: For any tool or technology being developed- Inspiration Research should be MANDATORY!                                                                                                                           Will you use a research-first Or hypothesis-first approach?
 
     
     **Research- First Approach:**
@@ -121,7 +121,7 @@ Web View এর মাধ্যমে ভালভাবে দেখতে হ�
     
     He is interested in human behavior, technology and everything in between. He aims to deliver the benefits of technology and creativity to more and more people and strive to build a positive atmosphere of growth with the help of the talented personalities he works with.
     
-    ### Notes**:**
+    ### **Notes:**
     
     ![Subrou Sarker presentation slide 1.png](devConf%201%200%20Notes%20004f78fc05054cecb5035d59e486b680/Subrou_Sarker_presentation_slide_1.png)
     
@@ -205,7 +205,7 @@ Web View এর মাধ্যমে ভালভাবে দেখতে হ�
     - [https://www.canva.com/](https://www.canva.com/)
     - [https://elements.envato.com/](https://elements.envato.com/)
     
-    💡 _Note_: Apply করার সময় Mail এ একটা Short Video দিলে Better হয়।যেখানে নিজের সম্পর্কে এবং কি কি কাজ করছি সেই সম্পর্কে ২ মিনিট Short Video করে দেওয়া যায়।
+    > 💡 _Note_: Apply করার সময় Mail এ একটা Short Video দিলে Better হয়।যেখানে নিজের সম্পর্কে এবং কি কি কাজ করছি সেই সম্পর্কে ২ মিনিট Short Video করে দেওয়া যায়।
     
     **Time Management:**
     
@@ -219,7 +219,7 @@ Web View এর মাধ্যমে ভালভাবে দেখতে হ�
     ---
     
     > **I am a Full Stack Developer or Engineering. So**
-    > 
+    
     - I know to code in JavaScript.
     - I know React.
     - I can make API calls
@@ -230,7 +230,7 @@ Web View এর মাধ্যমে ভালভাবে দেখতে হ�
     ---
     
     > **Do you know?**
-    > 
+
     - How to write **Semantic** HTML?
     - How to create **Layouts**?
     - How to make a page **Responsive**?
@@ -242,8 +242,9 @@ Web View এর মাধ্যমে ভালভাবে দেখতে হ�
     - How to **Deploy** for **Scale**?
     - How to understand what your **Users** want?
     
+
     > **As a Full Stack developer, how we work?**
-    > 
+    
     - **Firstly** , Collect or Gather a client requirement. Then I start understanding client requirements.
     - **Secondly**, I understanding with my team , what type of data we will work. Like Our Applications  will work what kind of data.
     - **Thirdly**, we are choose what kind of technology we are use of my Application.
@@ -274,7 +275,7 @@ Web View এর মাধ্যমে ভালভাবে দেখতে হ�
     - **Development**
     - **Documentation.**
     
-    💡 _Notes_: MARN and MERN is not a Full Stack Development.
+    > 💡 _Notes_: MARN and MERN is not a Full Stack Development.
     
 - **Md. Rashidul Islam (Head of Operations ⇒ [TechnoNext](https://www.digigate360.com/))(Session Topic: Industry insights)** (Time: 1 hours 36 min → 1 hours 54 min)
     
@@ -485,7 +486,7 @@ Web View এর মাধ্যমে ভালভাবে দেখতে হ�
     
     **Shading Token for Separation Database Query.**
     ---
-    ### 💡 _Notes_: এই সেশনের Note গুলো [a,b,c …] দিয়ে কোনটার পর কোনটা হবে সেটা চিহ্নিত করা আছে।
+    > 💡 _Notes_: এই সেশনের Note গুলো [a,b,c …] দিয়ে কোনটার পর কোনটা হবে সেটা চিহ্নিত করা আছে।
     
     
     ## **Shihan Bai(Head of Engineering):**
